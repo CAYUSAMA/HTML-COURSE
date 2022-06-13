@@ -1,0 +1,35 @@
+body{
+	
+	font-family: 'Noto Sans', sans-serif;
+  background-color: #fff;
+  
+  height: 100%;
+  /*IMPORTANTE*/
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+.parte-principal{
+    margin: 80px auto;
+        border-radius: auto;
+        padding-top: 30px;
+        padding-bottom: 20px;   
+        text-align: center;
+        border-bottom: 1px solid;
+}
+.contenido{
+    width: 10px auto;
+    height: auto;
+    padding-left: 200px;
+    border-radius: 2px;
+}
+.contact_form{	
+	width: 460px; 
+  height: auto;
+  margin: 80px auto;
+	border-radius: 10px;  
+	padding-top: 30px;
+	padding-bottom: 20px;  
+  background-color: #fbfbfb; 
+  padding-left: 30px; 
+}
