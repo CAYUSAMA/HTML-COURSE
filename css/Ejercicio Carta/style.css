@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin-top: 0;
+    padding-left: 0;
+}
+
+#main-contenedor{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#fecha{
+    text-align: end;
+}
+
+#autorizacion{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#cuerpo{
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+#cuerpo .contenido{
+    margin-bottom: 50px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: #fff;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Arvo', serif;
+    font-size: 50px;
+}
+ol{
+    padding-top: 10px;
+    background-color: beige;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 250px;
+}
+ul{
+    font-family: 'Noto Sans', sans-serif;
+    color: darkslategray;
+}
+#titulos{
+    font-size: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: teal;
+}
